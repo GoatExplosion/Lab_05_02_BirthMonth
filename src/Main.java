@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args)
     {
-      int birthMonth = 12;
+      int birthMonth = 13;
 
       if(birthMonth <= 12)
       {
